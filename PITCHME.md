@@ -56,20 +56,69 @@
 
 ---
 
-![federalist-papers](images/federalist_papers.jpg)
+![federalist-papers](images/federalist-papers.jpg)
 
 +++
 
 @div[left-30]
 ![alexander](images/alexander.jpg)
+Alexander Hamilton
 @divend
 
 @div[left-30]
 ![john](images/john.jpg)
+John Jay
 @divend
 
 @div[left-30]
 ![james](images/james.jpg)
+James Madison
 @divend
 
 ---
+
+![spam](images/spam.jpg)
+
++++
+
+![gmail](images/gmail.jpeg)
+
+---
+
+![power-grid](images/power-grid.jpg)
+
+---
+
+![academic-papers](images/papers.jpeg)
+
+---
+
+![mri](images/mri.jpg)
+
+---
+
+![serenata](images/serenata.png)
+
++++
+
+![qmn](images/qmn.png)
+
++++
+
+![imagenet](images/imagenet.png)
+
+---
+
+![crash-course](images/ml-crash-course.png)
+
++++
+
+![tf-playground](images/tf-playground.png)
+
++++
+
+## Just come and ask me, I'll try to guide as best as I can! :D
+
+---
+
+# Questions?
