@@ -1,0 +1,8 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .big-formula {
+    font-size: 0.6em;
+}
