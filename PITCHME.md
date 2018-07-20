@@ -89,7 +89,7 @@ James Madison
 
 ---
 
-![academic-papers](images/papers.jpeg)
+![academic-papers](images/papers.jpg)
 
 ---
 
