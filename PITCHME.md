@@ -1,13 +1,13 @@
 ---?image=images/servers.jpg
 
-# An introduction to Flask and Microservices
+# @color[white](An introduction to Flask and Microservices)
 
 ---
 
 ## But first...
 
 @snap[north-west]
-@size[0.4em](![elements_logo](images/logo_1.png))
+![](images/logo_1.png)
 @snapend
 
 
