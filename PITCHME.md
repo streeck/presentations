@@ -40,7 +40,7 @@
 @transition[none]
 #### From flask's website
 
-> Flask is a microframework for Python based on Werkzeug, Jinja 2 and **good intentions**.
+> Flask is a microframework for Python based on Werkzeug, Jinja 2 and @color[#174792](__**good intentions**__).
 
 +++?code=code_snippets/flask_intro.py&lang=python&title=Hello... World?
 
@@ -48,4 +48,4 @@
 @[3-4](Amazing [PEP-8](https://www.python.org/dev/peps/pep-0008/) double spacing here.)
 @[5-7](Amazing endpoint inspired by... "I was wondering...")
 
----
+---?image=?images/cthulhu.jpg&size=auto
