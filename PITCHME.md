@@ -59,4 +59,4 @@
 
 ---?image=images/cthulhu.jpg&size=auto
 
-+++?image=images/simple_dictionary.png&size=auto 100%
++++?image=images/simple_dictionary.png&size=auto 80%
