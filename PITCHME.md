@@ -6,6 +6,11 @@
 
 ## But first...
 
+@snap[north-west]
+@size[0.4em](![elements_logo](images/logo_1.png))
+@snapend
+
+
 A little bit about who I am :wink:
 
 ---
