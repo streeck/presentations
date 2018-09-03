@@ -1,6 +1,6 @@
 ---?image=images/servers.jpg
 
-# @color[white](An introduction to Flask and Microservices)
+# @color[#8ea0ad](An introduction to Flask and Microservices)
 
 ---
 
