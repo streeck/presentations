@@ -1,17 +1,22 @@
 ---?image=images/servers.jpg
 
-# @color[#8ea0ad](An introduction to Flask and Microservices)
+## @color[#ffffff](An introduction to Flask and Microservices)
 
 ---
 
 ## But first...
 
 @snap[north-west]
-![](images/logo_1.png)
+![](images/logo_1_small.png)
 @snapend
 
+#### A little bit about me @fa[wink]
 
-A little bit about who I am :wink:
++++?image=images/logo_1_large.png
+
++++?image=images/django-logo-positive.png
+
++++?image=images/data_scientist.png
 
 ---
 
