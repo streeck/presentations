@@ -61,8 +61,6 @@
 
 +++?image=images/simple_dictionary.png&size=auto 80%
 
-+++?image=images/microservices-logo.png&size=auto
-
 +++?image=images/minimalist_dictionary.png&size=auto 80%
 
 +++?image=images/minimalist_use_over_time.png&size=auto
