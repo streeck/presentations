@@ -12,11 +12,11 @@
 
 #### A little bit about me @fa[wink]
 
-+++?image=images/logo_1_large.png
++++?image=images/logo_1_large.png&size=auto
 
-+++?image=images/django-logo-positive.png
++++?image=images/django-logo-positive.png&size=auto
 
-+++?image=images/data_scientist.png
++++?image=images/data_scientist.png&size=auto
 
 ---
 
