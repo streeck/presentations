@@ -74,7 +74,7 @@
 
 ---
 
-## Thanks... @div[fragment] for bearing with me @fa[smile] @divend
+### Thanks... for bearing with me @fa[smile]
 
 ---
 
