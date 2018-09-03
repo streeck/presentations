@@ -6,11 +6,7 @@
 
 ## But first...
 
-@snap[north-west]
-![](images/logo_1_small.png)
-@snapend
-
-#### A little bit about me @fa[wink]
+#### A little bit about me @fa[smile]
 
 +++?image=images/logo_1_large.png&size=auto
 

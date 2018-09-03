@@ -1,4 +1,4 @@
-logo : images/logo_1_small.png
+logo : images/logo_1_large.png
 
 mathjax : TeX-MML-AM_HTMLorMML-full
 theme-override : PITCHME.css
