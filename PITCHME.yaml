@@ -1,2 +1,8 @@
+logo : images/logo_1_small.png
+
 mathjax : TeX-MML-AM_HTMLorMML-full
 theme-override : PITCHME.css
+
+code-line-numbers : true
+
+footnote : "An introduction to Flask and Microservices by Charles Moraes"
