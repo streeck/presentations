@@ -1,4 +1,4 @@
----?image=images/servers.jpg
+---?image=images/servers.jpg&opacity=40
 
 ## @color[#ffffff](An introduction to Flask and Microservices)
 
@@ -57,6 +57,6 @@
 @[3-4](Amazing [PEP-8](https://www.python.org/dev/peps/pep-0008/) double spacing here.)
 @[5-7](Amazing endpoint inspired by... "I was wondering...")
 
----?image=images/cthulhu.jpg&size=auto
+---?image=images/cthulhu.jpg&size=auto 92%
 
 +++?image=images/simple_dictionary.png&size=auto 80%
