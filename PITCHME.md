@@ -70,3 +70,12 @@
 ---?image=images/microservices-logo.png&size=auto
 
 +++?image=images/microservices_definiton_1.png&size=auto 80%
+
+
+---
+
+## Thanks... @div[fragment] for bearing with me @fa[smile] @divend
+
+---
+
+# Questions?
