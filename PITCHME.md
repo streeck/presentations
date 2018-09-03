@@ -42,6 +42,19 @@
 
 > Flask is a microframework for Python based on Werkzeug, Jinja 2 and @color[#174792](__**good intentions**__).
 
++++
+@transition[none]
+> Flask microframework Python Werkzeug, Jinja 2 and @color[#174792](__**good intentions**__).
+
++++
+@transition[none]
+> @color[#174792](__**good intentions**__)
+
++++
+@transition[none]
+
+# @size[3em](@color[#174792](**GOOD**))
+
 +++?code=code_snippets/flask_intro.py&lang=python&title=Hello... World?
 
 @[1-2](Import and Flask class instantiation)
