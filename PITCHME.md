@@ -28,23 +28,24 @@
 4. Why Flask?
 5. Real life examples
 
----?image=images/flask-logo.png&size=auto
+---?image=images/flask-logo.png&size=auto 50%
 
 +++
-
+@transition[none]
 #### From flask's website
 
 > Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 
 +++
-
+@transition[none]
 #### From flask's website
 
 > Flask is a microframework for Python based on Werkzeug, Jinja 2 and **good intentions**.
 
-
-+++code=code_snippets/flask_intro.py&lang=python&color=white
++++?code=code_snippets/flask_intro.py&lang=python&color=black
 
 @[1-2](Import and Flask class instantiation)
 @[3-4](Amazing [PEP-8](https://www.python.org/dev/peps/pep-0008/) double spacing here.)
 @[5-7](Amazing endpoint inspired by... Adele)
+
+---
