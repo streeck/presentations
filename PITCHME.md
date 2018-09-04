@@ -69,6 +69,10 @@
 
 +++?image=images/microservices_definiton_1.png&size=auto 80%
 
++++?image=images/lego.jpg&size=auto 92%
+
++++?image=images/diverse_stack.png&size=auto 92%
+
 
 ---
 
