@@ -73,10 +73,27 @@
 
 +++?image=images/diverse_stack.png&size=auto 92%
 
++++?image=images/devops.png?&size=auto 80%
+
++++?image=images/schrodinger.jpg?&size=auto
+
+---?image=images/monolith_microservices.png&size=auto 92%
+
++++?image=images/conway_law.png&size=auto 80%
+
++++?image=images/silos.png&size=auto 80%
+
++++?image=images/cross_functional.png&size=auto 80%
+
++++?image=images/decentralized.png&size=auto 80%
 
 ---
 
-### Thanks... for bearing with me @fa[smile]
+#### Fancy company logos go here...
+
+---
+
+### Thanks... for bearing with me ;)
 
 ---
 
