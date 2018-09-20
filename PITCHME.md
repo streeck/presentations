@@ -110,23 +110,37 @@ Just please, don't use Javascript ;)
 **Microservices**
 @snapend
 
-@snap[west text-blue-elements span-50 fragment height-70]
+@snap[west text-blue-elements span-50 fragment height-60]
 Simplicity
 @snapend
 
-@snap[east text-white span-50 fragment height-70]
+@snap[east text-white span-50 fragment height-60]
 Partial deploy
 @snapend
 
-@snap[east text-white span-50 fragment height-55]
+@snap[east text-white span-50 fragment height-40]
 Availability
 @snapend
 
-@snap[west text-blue-elements span-50 fragment height-55]
+@snap[west text-blue-elements span-50 fragment height-40]
 Consistency
 @snapend
 
-Talk about pros/cons here
+@snap[east text-white span-50 fragment height-20]
+Strong modularity
+@snapend
+
+@snap[west text-blue-elements span-50 fragment height-20]
+Module refactoring
+@snapend
+
+@snap[east text-white span-50 fragment height-0]
+Diversity
+@snapend
+
+@snap[west text-blue-elements span-50 fragment height-0]
+Standards
+@snapend
 
 Note:
 
