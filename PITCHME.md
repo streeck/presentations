@@ -99,23 +99,31 @@ Just please, don't use Javascript ;)
 
 +++?image=images/nothing_to_see_here.gif&size=auto 60%
 
----
+---?image=images/bg/blue-elements.png&position=right&size=50% 100%
 @title[Pros/cons when comparing to Monolith]
 
-@snap[west text-black span-50 height-95]
+@snap[west split-screen-heading text-blue-elements span-50 height-95]
 **Monolith**
 @snapend
 
-@snap[east text-black span-45 height-95]
+@snap[east split-screen-heading text-white span-50 height-95]
 **Microservices**
 @snapend
 
-@snap[west text-black span-50 fragment height-85]
+@snap[west text-blue-elements span-50 fragment height-70]
 Simplicity
 @snapend
 
-@snap[east text-black span-50 fragment height-85]
-Something else
+@snap[east text-white span-50 fragment height-70]
+Partial deploy
+@snapend
+
+@snap[east text-white span-50 fragment height-55]
+Availability
+@snapend
+
+@snap[west text-blue-elements span-50 fragment height-55]
+Consistency
 @snapend
 
 Talk about pros/cons here
@@ -127,7 +135,9 @@ Note:
 - For you to thrive: comprehensive automation, continuous delivery, extensive monitoring and alerting.
 - Cost-benefit trade-offs vary by organization; its maturity, the domain, and other factors that might affect available development resources.
 
----?image=images/devops.png?&size=auto 80%
++++?image=images/microservice_premium.png&size=auto 90%
+
++++?image=images/devops.png?&size=auto 80%
 
 ---?image=images/flask-logo.png&size=auto 50%
 
