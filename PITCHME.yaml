@@ -5,4 +5,4 @@ theme-override : PITCHME.css
 
 code-line-numbers : true
 
-footnote : "An introduction to Flask and Microservices by Charles Moraes"
+footnote : "An overview of Microservices and a Flasky approach by Charles Moraes"
