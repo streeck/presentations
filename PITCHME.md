@@ -102,19 +102,19 @@ Just please, don't use Javascript ;)
 ---
 @title[Pros/cons when comparing to Monolith]
 
-@snap[west text-black span-50]
-#### Monolith
+@snap[west text-black span-50 height-95]
+**Monolith**
 @snapend
 
-@snap[east text-black span-45]
-#### Microservices
+@snap[east text-black span-45 height-95]
+**Microservices**
 @snapend
 
-@snap[west text-black span-50 fragment]
+@snap[west text-black span-50 fragment height-85]
 Simplicity
 @snapend
 
-@snap[east text-black span-50 fragment]
+@snap[east text-black span-50 fragment height-85]
 Something else
 @snapend
 
