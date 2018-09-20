@@ -71,7 +71,7 @@ Note:
 - 2 pizza team from Amazon, american pizza of course
 - Not only small, but direct contact with end-user, verticality towards the end-user
 
-+++?image=images/conway_law.png&size=auto 80%
++++?image=images/conway_law.png&size=auto 70%
 
 ---?image=images/decentralization.png&size=auto 70%
 @title[Decentralization]
@@ -163,7 +163,7 @@ Note:
 +++
 @transition[none]
 
-@quote[Flask is a microframework for Python based on Werkzeug, Jinja 2 and @color[#174792](__**good intentions**__).]
+@quote[Flask is a microframework for Python based on Werkzeug, Jinja 2 and __**good intentions**__.]
 
 +++?code=code_snippets/flask_intro.py&lang=python&title=Hello... World?
 
