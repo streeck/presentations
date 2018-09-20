@@ -24,7 +24,7 @@
 1. Microservices intro and why it's still relevant
 2. The misconceptions, the benefits and the pitfalls
 3. Flask as a contender
-4. Overview
+4. Wrap-up
 
 ---?image=images/microservices-logo.png&size=auto
 @title[Microservices and its relevance]
@@ -59,7 +59,7 @@ Examples:
 Note:
 - Independently replaceable and upgradeable
 
-+++?image=images/silos.png&size=auto 80%
+---?image=images/silos.png&size=auto 80%
 @title[Organization around business capabilities]
 
 Note:
@@ -94,10 +94,40 @@ Note:
 Note:
 Just please, don't use Javascript ;)
 
----
-+++?image=images/devops.png?&size=auto 80%
+---?image=images/controlled_chaos.gif&size=auto 60%
+@title[Extra one, designed for failures]
+
++++?image=images/nothing_to_see_here.gif&size=auto 60%
 
 ---
+@title[Pros/cons when comparing to Monolith]
+
+@snap[west text-black span-50]
+#### Monolith
+@snapend
+
+@snap[east text-black span-45]
+#### Microservices
+@snapend
+
+@snap[west text-black span-50 fragment]
+Simplicity
+@snapend
+
+@snap[east text-black span-50 fragment]
+Something else
+@snapend
+
+Talk about pros/cons here
+
+Note:
+
+- How do you join your different data sources?
+- Complex operations
+- For you to thrive: comprehensive automation, continuous delivery, extensive monitoring and alerting.
+- Cost-benefit trade-offs vary by organization; its maturity, the domain, and other factors that might affect available development resources.
+
+---?image=images/devops.png?&size=auto 80%
 
 ---?image=images/flask-logo.png&size=auto 50%
 
@@ -124,9 +154,8 @@ Just please, don't use Javascript ;)
 
 +++?image=images/minimalist_dictionary.png&size=auto 80%
 
-+++?image=images/minimalist_use_over_time.png&size=auto
-
----?image=images/test.gif&size=auto 50%
+---?image=images/monolith_first.png&size=auto 90%
+@title[Wrapping up]
 
 ---
 
