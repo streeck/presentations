@@ -11,7 +11,7 @@
 
 +++?image=images/logo_1_large.png&size=auto
 
-+++?image=images/flask-logo.png&size=auto 80%
++++?image=images/flask-logo.png&size=auto 50%
 
 +++?image=images/django-logo-positive.png&size=auto
 
@@ -53,7 +53,7 @@ Examples:
 
 +++?image=images/microservices_definiton_1.png&size=auto 80%
 
----?image=images/audio_studio.png
+---?image=images/audio_studio.png&size=auto 95%
 @title[Components]
 
 Note:
@@ -157,15 +157,13 @@ Note:
 
 +++
 @transition[none]
-#### From flask's website
 
-> Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
+@quote[Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.]
 
 +++
 @transition[none]
-#### From flask's website
 
-> Flask is a microframework for Python based on Werkzeug, Jinja 2 and @color[#174792](__**good intentions**__).
+@quote[Flask is a microframework for Python based on Werkzeug, Jinja 2 and @color[#174792](__**good intentions**__).]
 
 +++?code=code_snippets/flask_intro.py&lang=python&title=Hello... World?
 
